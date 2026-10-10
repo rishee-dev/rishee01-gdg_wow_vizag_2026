@@ -304,7 +304,7 @@ Continuous Learning
 ## Clone Repository
 
 ```bash
-git clone https://github.com/rishee01/gdg_wow_vizag_2026.git
+git clone https://github.com/rishee-dev/rishee01-gdg_wow_vizag_2026.git
 
 cd gdg_wow_vizag_2026
 ```
